@@ -5,7 +5,7 @@
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-shadcn-template/tailwindcss?logo=tailwindcss)
 ![GitHub package.json prod dependency version](https://img.shields.io/badge/shadcn/ui-v2.5.0-blue?logo=shadcnui)
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-shadcn-template/react?logo=react)
-[![GitHub License](https://img.shields.io/github/license/Awerito/react-shadcn-template?logo=github)](https://github.com/Awerito/react-shadcn-template/blob/master/LICENSE)
+![GitHub License](https://img.shields.io/github/license/Awerito/react-shadcn-template?logo=github&link=.%2FLICENSE)
 
 This is a template for projects using [React](https://reactjs.org/) and
 [Shadcn](https://ui.shadcn.com/) with JavaScript. It provides a solid,
