@@ -3,7 +3,9 @@
 ![GitHub package.json dev/peer/optional dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-shadcn-template/dev/vite?logo=vite)
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-shadcn-template/react?logo=react)
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-shadcn-template/tailwindcss?logo=tailwindcss)
+![GitHub package.json prod dependency version](https://img.shields.io/badge/shadcn/ui-v2.5.0-blue?logo=shadcnui)
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/awerito/react-shadcn-template/react?logo=react)
+)
 [![GitHub License](https://img.shields.io/github/license/Awerito/react-shadcn-template?logo=github)](./LICENSE)
 
 This is a template for projects using [React](https://reactjs.org/) and
